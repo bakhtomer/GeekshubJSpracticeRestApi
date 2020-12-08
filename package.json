@@ -1,0 +1,24 @@
+{
+  "name": "sequelize_orm_learning",
+  "version": "1.0.0",
+  "description": "Doing 5 joins queries, in sequelize ORM 1) show all students who are not assigned courses yet 2)show all teachers who have atleast one course assigned 3)show all courses along with teachers name 4)show all courses along with student name 5)show all teachers along with no of courses assign",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon"
+  },
+  "keywords": [
+    "Cruds",
+    "joins",
+    "associations"
+  ],
+  "author": "bakhtoo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-validator": "^6.7.0",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.3.5"
+  }
+}
