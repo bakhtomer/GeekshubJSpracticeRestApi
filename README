@@ -1,0 +1,12 @@
+this is first small practice project of student management system.
+this project is purely done in sequelize ORM 6, and express ,
+a simple api for CRUDS and 5 Joins majorly
+
+1)show all students who are not assigned courses yet 
+2)show all teachers who have atleast one course assigned;
+3)show all courses along with teachers name;
+4)show all courses along with student name;
+5)show all teachers along with no of courses assign;
+Please find SQL Joins Diagram and understand diagram.
+
+Thanks
